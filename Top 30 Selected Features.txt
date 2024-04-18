@@ -1,0 +1,12 @@
+Selected Features: Index(['d_env_wea_avgtemp_summer_noaa', 'd_env_wea_precip_noaa',
+       'd_env_wea_precip_annual_noaa', 'dem_soc_ed_lessbach_xt',
+       'census_region', 'census_division', 'sub_west_coast',
+       'sub_low_rent_vacancy', 'sub_high_cost_rent75',
+       'sub_high_cost_homeval75', 'sub_high_rent_share75',
+       'tight_high_cost_rental_mkt', 'sub_tight_high_cost_rent',
+       'sub_west_coast_all_urb', 'sub_west_census', 'major_city', 'suburban',
+       'rural', 'Mortality_Z-Score', 'Mortality_Rank', 'Morbidity_Z-Score',
+       'Morbidity_Rank', 'Health_Behaviors_Z-Score', 'Health_Behaviors_Rank',
+       'Clinical_Care_Z-Score', 'Clinical_Care_Rank',
+       'Social_&_Economic_Factors_Z-Score', 'Social_&_Economic_Factors_Rank',
+       'Physical_Environment_Z-Score', 'Physical_Environment_Rank']
